@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background: url(duong-ngan-9u3z-wOrREc-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1,p
+{
+     text-align: center;
+     margin-top: 20px;
+
+}
+ footer{
+    text-align: right;
+ }
